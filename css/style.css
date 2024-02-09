@@ -27,23 +27,25 @@
 body {
   font-family: 'Courier New', Courier, monospace;
   border-color: var(--border-color);
+  background-color: black;
 }
 
 h1 {
   font-size: 3.5rem;
-  color: #7bbcfc;
+  color: #7bfcac;
 }
 
 h2 {
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode';
   font-size: 1.5rem;
-  color: #7bbcfc;
+  color: #7bfcac;
 }
 
 p{
   padding: 10px;
   font-family: 'Arial Regular', Arial, Helvetica, sans-serif;
   font-size: 1.4rem;
+  color: white;
 }
 
 ol{
@@ -69,7 +71,6 @@ aside {
   width: 24%;
   height: auto;
   padding: 10px;
-  /* border-left: 2px solid var(--border-color); */
   background-image: var(--image-bck-borders);
 }
 
