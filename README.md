@@ -14,5 +14,7 @@ CRIAR UM BOTAO COM HOVER ANIMADO.
 # CHALLENGE 02 - AUTOLOADING
 
 CRIAR UM AUTOLOADING ANIMADO, PARA A ESPERA DO CARREGAMENTO DA PÁGINA.
-
-<img src="images/logoprogmatica.png" alt="Tela do abiente de estudos com o autoloading em funcionamento">
+<figure>
+<img src="images/tela-challenge02.jpg.png" alt="Tela do ambiente de estudos com o autoloading em funcionamento">
+<figcaption>Tela do Challenge 02 com o autoloading</figcaption>
+</figure>
