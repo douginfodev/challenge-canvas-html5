@@ -15,6 +15,6 @@ CRIAR UM BOTAO COM HOVER ANIMADO.
 
 CRIAR UM AUTOLOADING ANIMADO, PARA A ESPERA DO CARREGAMENTO DA PÁGINA.
 <figure>
-<img src="images/tela-challenge02.jpg.png" alt="Tela do ambiente de estudos com o autoloading em funcionamento">
+<img src="images/tela-challenge02.jpg" alt="Tela do ambiente de estudos com o autoloading em funcionamento">
 <figcaption>Tela do Challenge 02 com o autoloading</figcaption>
 </figure>
