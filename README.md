@@ -1,2 +1,18 @@
-# challenge-canvas-html5
-Repositório dos projetos dos Desafios de CSS implementados com canvas, html 5 e javascript
+# CHALLENGE CANVAS HTML 5
+
+O CANVAS CHALLENGE É BASEADO EM UM DESAFIO DE CSS, PORÉM, ESTES DESAFIOS SERÃO FEITOS UTILIZANDO JAVASCRIPT E O ELEMENTO CANVAS DO HTML 5.
+
+ESTE ELEMENTO HTML, NOS PERMITE DESENHAR GRÁFICOS, FORMAS GEOMÉTRICAS(2D / 3D), DENTRO DA ESTRUTURA
+DE NOSSA PÁGINA NA INTERNET.
+
+# CHALLENGE 01 - HOVER ANIMATION
+
+CRIAR UM BOTAO COM HOVER ANIMADO.
+
+<img src="images/logoprogmatica.png" alt="Tela do abiente de estudos com o autoloading em funcionamento">
+
+# CHALLENGE 02 - AUTOLOADING
+
+CRIAR UM AUTOLOADING ANIMADO, PARA A ESPERA DO CARREGAMENTO DA PÁGINA.
+
+<img src="images/logoprogmatica.png" alt="Tela do abiente de estudos com o autoloading em funcionamento">
